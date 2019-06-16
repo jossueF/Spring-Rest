@@ -9,9 +9,7 @@ import com.webapp.models.Estudiante;
 @Repository
 @Transactional
 public interface EstudianteRepository extends CrudRepository<Estudiante, String>{
-
-	//@Query(value="SELECT e FROM Estudiante e")
-	//List<Estudiante> findAll();
 	
+	Estudiante findByNombre(String nombre);
 }
  
