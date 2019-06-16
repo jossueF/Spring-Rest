@@ -13,3 +13,5 @@ Ejemplo de un API Rest usando usando Spring MVC 5, Spring Data, Spring Platform,
 - Es necesario instalar Lombok Project para poder hacer uso de sus librerias.
 
 - Use Swagger para documentar mi servicio Rest, asi como la interfaz de usuario swagger-ui disponible en http://localhost:8080/restApp/swagger-ui.html
+
+![](images/swagger.jpg)
