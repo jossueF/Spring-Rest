@@ -2,7 +2,7 @@
 
 Ejemplo de un API Rest usando usando Spring MVC 5, Spring Data, Spring Platform, Hibernate y Lombok.
 
---
+---
 
 # El proyecto permite utilizar un pequeño CRUD para la definicion de un estudiante
 
