@@ -40,7 +40,6 @@ public class JDBCConfiguration {
 		manager.setUsername(env.getProperty("jdbc.user"));
 		manager.setPassword(env.getProperty("jdbc.pass"));
 		manager.setConnectionProperties(jpaProperties());
-		
 		return manager;
 	}
 	
