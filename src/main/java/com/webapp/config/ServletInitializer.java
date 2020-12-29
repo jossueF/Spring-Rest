@@ -8,6 +8,7 @@ import com.webapp.filters.CORSFilter;
 
 public class ServletInitializer extends AbstractAnnotationConfigDispatcherServletInitializer{
 
+	// comentario nuevo
 	@Override
 	protected Class<?>[] getRootConfigClasses() {
 		return new Class[] { WebConfig.class };
