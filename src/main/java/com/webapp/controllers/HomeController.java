@@ -16,4 +16,6 @@ public class HomeController {
 	}
 
 	public void doNothing(){}
+
+	public void foo(){}
 }
