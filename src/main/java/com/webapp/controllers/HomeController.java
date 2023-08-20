@@ -19,4 +19,5 @@ public class HomeController {
 
 	public void foo(){}
 	public void foo1(){}
+	public void foo2(){}
 }
