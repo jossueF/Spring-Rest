@@ -14,4 +14,6 @@ public class HomeController {
 	public String index(ModelMap model) {
 		return "index";
 	}
+
+	public void doNothing(){}
 }
