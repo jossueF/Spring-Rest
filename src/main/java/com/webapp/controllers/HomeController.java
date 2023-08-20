@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 // Un comentario más.
 // Comentario creado desde VSC.
+// Comentario creado desde GitHub.
 @Controller
 @RequestMapping("/")
 public class HomeController {
