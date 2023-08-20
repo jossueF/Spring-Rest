@@ -22,7 +22,7 @@ public class EstudianteController {
 	@Autowired
 	private EstudianteManager manager;
 	
-	@ApiOperation(value="Obtener todos los estudiantes")
+	@ApiOperation(value="Obtener todos los estudiantes3")
 	@RequestMapping(method=RequestMethod.GET)
 	public ResponseEntity<List<Estudiante>> getEstudiantes() {	
 		return new ResponseEntity<List<Estudiante>>(manager.getAllEstudiantes(), HttpStatus.OK);
