@@ -16,7 +16,7 @@ import io.swagger.annotations.ApiOperation;
 
 // Comentario nuevo 20/08/2023
 @RestController
-@RequestMapping("/estudiantes")
+@RequestMapping("/estudiantesB")
 public class EstudianteController {
 
 	@Autowired
